@@ -1,0 +1,119 @@
+JavaScript Developer - AngularJS
+As a contract JavaScript Developer working for a large software house, you will be required to take a senior role in the SPA development team, dealing with build and production issues, as well as helping with the training of other employees on the new development projects.
+Experience required:
+*Commercial experience of developing an SPA
+*Extensive commercial experience of developing in JavaScript
+*Excellent general knowledge of Javascript and the various frameworks
+*Commercial experience of developing in Angular
+*Experience of TypeScript an advantage but not necessary
+Full job description available upon application.
+    Contact: Adam Smith
+
+
+
+Back-en Developer - Node.js, MySQL, WebAPI
+Duration: 3-6 Months + Possible extensions
+Rate: £350-£450
+Start date: ASAP
+Job: This is a fantastic contract role for a back end or full stack developer specialising in Node.js and MySQL technologies.
+If you like working in a great environment with great team of people around you then please apply for this contract ASAP.
+You can apply by sending your resume to : kaveh @isluk.co.uk or call: 01174 280 600
+Applicants must be eligible to live and work in UK to be considered.
+Contract Job : Back-en Developer - Node.js, MySQL, WebAPI
+Contact: Kaveh Kordestani
+
+
+Senior Java developer
+Киев
+Необходимые навыки
+Необходимые навыки
+— Не менее 3 лет опыта разработки Java Enterprise приложений;
+— Опыт разработки веб-приложений и сервисов на Java (SOAP, REST);
+— Хорошие знания Spring, Hibernate, JPA;
+— Глубокие познания в SQL и реляционных базах данных;
+— Опыт работы с JUnit и Maven.
+Будет плюсом
+— Опыт работы с PostgreSQL;
+— Опыт и знания в области безопасности и облачных сервисов (SaaS);
+— Наличие закрытых проектов в области масштабируемых облачных сервисов на основе Java;
+— Опыт разработки GUI с использованием HTML5, AJAX.
+Предлагаем
+— Конкурентная заработная плата;
+— Карьерный и профессиональный рост;
+— Оплачиваемые больничные;
+— Оплачиваемый отпуск, 24 календарных дня;
+— Хорошая медицинская страховка;
+— Командные спортивные занятия (футбол и волейбол);
+— Печенье, чай, кофе, фрукты, горячие бутерброды и сухие завтраки всегда есть на кухне;
+— Бесплатные курсы английского языка в офисе компании;
+— Комфортный, просторный офис в 2 минутах ходьбы от станции метро Лыбидская.
+Обязанности
+— Писать код. Без этого никак;
+— Быть командным игроком;
+— Любить продукт, который делаешь;
+— Думать, как решить задачу, а не как выполнить требования;
+— Ответственно относиться к оценке задач и соблюдению сроков;
+— Самостоятельно проверять и тестировать собственный код;
+— Документировать созданные функционалы.
+
+
+.NET developer
+Professional requirements:
+— At least 5-year experience within software development
+— Deep understanding software product lifecycle, quality assurance approaches
+— Offshoring projects experience
+— Experience of work in distributed team/environment
+— Experience of direct communication with client
+Technical experience:
+— Experience in working with C#.
+— Experience in working with ASP .NET.MVC
+— Experience in working with AngularJS, Backbone
+— Experience in working with Oracle or MSSQL
+— Knowledge of unit-testing, continuous integration
+Education & Language:
+— Master degree or Bachelor degree from technological university/college.
+— English: intermediate, both oral and written.
+Personal requirements:
+— Excellent communication skills
+— Responsible and loyal
+— Self-organized
+— Team player
+— Company offers:
+Будет плюсом
+Is a plus:
+— Experience of work accordingly SCRUM methodology
+— Knowledge of TFS
+Предлагаем
+Competitive compensation
+— Paid vacation, 100% paid sick leave (+3 paid sick days without sick list)
+— Medical insurance with sports and stomatology
+— Free English and Norwegian language courses
+— Comfortable office in the center of Kyiv
+— Friendly team of high experienced specialists
+Обязанности
+Tasks and responsibilities:
+— Participate in exciting projects in all phases of the process.
+— Development, upgrade and error correction.
+— Perform unit testing and contribute in other testing.
+— Developing according to specification.
+— Responsible for quality in own work.
+— Responsible for smaller modules.
+
+
+
+Javascript developer
+Киев, Харьков, Днепропетровск
+Необходимые навыки
+— Good object-oriented design (OOD) skills
+— Strong knowledge of JavaScript
+— Strong knowledge of DOM and Event Models
+— Strong knowledge of jQuery
+— Knowledge of HTML5 and CSS3
+— Deep understanding of the similarities and differences between modern browsers
+— Experience with at least one popular JS framework
+— Good communication skills
+— Pre-Intermediate level of spoken English
+Будет плюсом
+— PHP experience is a plus
+— Experience of development complex client side application is a big plus
+— Experience with Backbone, AngularJS, CanJS, Ember.js, Require.js is a plus
