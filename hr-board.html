@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HR Dashboard</title>
+</head>
+<body>
+<input type="file" id="files" name="files[]" multiple onchange="filesSelected(this.files)"/>
+<output id="list"></output>
+
+<script src="js/procndate.js"></script>
+<script>
+    function filesSelected(files) {
+        var file = files[0], reader, contents;
+        txts=[];
+        //
+        //var files = this.files; // FileList object
+        for (var i = 0, f; f = files[i]; i++) {
+
+            console.log(f.name);
+            //alert(f.name);
+            reader = new FileReader();
+            reader.onload = function (e) {
+                i--;
+                //console.log('inside onreader ' + e);
+                contents = e.target.result;
+                //console.log("Содержимое файла: " + contents);
+                txts.push(contents);
+                //console.log('i= '+i);
+                if (i===0) {calcMatrix();console.log(cm);}
+            };
+            reader.readAsText(f);
+        }
+    };
+
+    //alert('selected from function');
+    function handleFileSelect(evt) {
+
+        // files is a FileList of File objects. List some properties.
+        var output = [];
+        for (var i = 0, f; f = files[i]; i++) {
+            output.push('<li><strong>', escape(f.name), '</strong> (', f.type || 'n/a', ') - ',
+                    f.size, ' bytes, last modified: ',
+                    f.lastModifiedDate.toLocaleDateString(), '</li>');
+        }
+        document.getElementById('list').innerHTML = '<ul>' + output.join('') + '</ul>';
+    }
+
+    //document.getElementById('files').addEventListener('change', handleFileSelect, false);
+</script>
+
+</body>
+</html>
